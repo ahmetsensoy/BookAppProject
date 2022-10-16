@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mZALZ3WN1pnjXN973IEUe1xH8MAUut92W+4wCCDq/ggg3pEBQPs4lZl/a0SgaP4qOjHnsTPB2dCfTGCIlGa+og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmet\\Desktop\\BookApp\\BookApp.Entities\\BookApp.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmet\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Ahmet\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Ahmet\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
